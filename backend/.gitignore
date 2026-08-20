@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Personal photo data / generated artifacts — never commit these
+data/photos/
+data/captions.json
+data/store_embeddings.npz
+data/store_metadata.json
+*.npz
+*.pkl
+embeddings/
+*.png
